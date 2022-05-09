@@ -1,4 +1,4 @@
-######################################################################################
+﻿######################################################################################
 # Placing a # in front of any of the items listed below (e.g., # /Project/Users) will 
 # allow these items to be pushed to your Git repository. Keep in mind the more files 
 # you push to your repository, the more your performance may be affected. 
@@ -9,5 +9,6 @@
 /Analyzer
 /FileSync
 /Project/Users
+/Content/Test files
 /.svn
 **/Thumbs.db
